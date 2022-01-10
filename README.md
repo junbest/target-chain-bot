@@ -1,5 +1,23 @@
 # target-chain-bot
-Pancakeswap bot
+Target Chain Bot is a pancakeswap bot sniper with many features and soon to expand more in other blockchains.
+
+Target Chain Features :
+----------------------
+- Blockchains  : Binance Smart Chain 
+- Mempool sniper
+- Single Wallet
+- Pair types BNB / BEP20
+- Sniper liquidity Fair launch
+- Sniper liquidity after IDOs platforms
+- Sniper antibot tokens
+- Auto Approve tokens
+- Price/Profit live stream
+- Rug SHIELD
+- Honeypot SHIELD
+- High tax SHIELD
+- Supported DEXs: PancakeSwap
+
+Telegram Channel: https://t.me/bscsniperdip
 
 1. Uzip the file
 2. Open .env file and input fields
