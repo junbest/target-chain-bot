@@ -18,6 +18,7 @@ Target Chain Features :
 - Supported DEXs: PancakeSwap
 
 Telegram Channel: https://t.me/bscsniperdip
+Discord Channel: https://discord.gg/cjuNadnd
 
 1. Uzip the file
 2. Open .env file and input fields
