@@ -1,7 +1,7 @@
 # target-chain-bot
 Target Chain Bot is a pancakeswap bot sniper with many features and soon to expand more in other blockchains.
 
-Download Trial : https://mega.nz/file/zU9CVYIS#JQeupBnWSILGpdYMrb-SuHD8h3tj4IywjhniyzaeNcc
+Download : https://mega.nz/file/zU9CVYIS#JQeupBnWSILGpdYMrb-SuHD8h3tj4IywjhniyzaeNcc
 
 Target Chain Features :
 ----------------------
